@@ -20,6 +20,6 @@ export const checkAuth = () => {
   return localStorage.getItem("authToken");
 };
 
-export const getAuthToken = () => {
-  return localStorage.getItem("authToken");
-};
+// export const getAuthToken = () => {
+//   return localStorage.getItem("authToken");
+// };
